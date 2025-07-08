@@ -2,6 +2,15 @@
 
 Nano is a console text editor that, although simpler than others like Vim or Emacs, is very useful and easy to learn. Here is a list of its most important commands:
 
+Open file with Nano editor:
+<code>nano finename.sh </code>
+
+In the editor command list you will find several options:
+- “^” means “Ctrl” key.
+- “M” stands for “Alt” key.
+
+- If used, a space must be added, so that the editor does not delete it.
+
 ### Basic Commands and Navigation
 
 Ctrl + G: Shows Nano help, where you can see a complete list of all commands.
